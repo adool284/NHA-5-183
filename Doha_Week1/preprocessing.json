@@ -1,0 +1,21 @@
+{
+  "scope": "Recorded preparation of the existing image files; no model training settings are included.",
+  "collected_source_images": {
+    "orientation": "Apply EXIF orientation",
+    "color": "RGB",
+    "maximum_long_edge_pixels": 1280,
+    "encoding": "JPEG",
+    "jpeg_quality": 92,
+    "content_synthesis": false,
+    "per_image_record": "The modifications field in the source records and manifests records the preparation applied to each file."
+  },
+  "catalog_fallback_images": "Existing catalog references are preserved with their own checksums and kind fields, including scan_render. They are not re-encoded by the audit.",
+  "audit": {
+    "file_integrity": "SHA-256",
+    "decoded_pixel_integrity": "SHA-256 of RGB dimensions and pixel bytes",
+    "similarity_candidate_method": "64-bit grayscale difference hash",
+    "maximum_candidate_hamming_distance": 3,
+    "similarity_limit": "A candidate is not proof of duplication or capture independence."
+  },
+  "training_augmentation": "None in Week 1; any Week 2 transformations must remain inside the training/reference split."
+}

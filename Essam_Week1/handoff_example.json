@@ -1,0 +1,13 @@
+{
+  "artifact_id": "EG_PA_003",
+  "language": "en",
+  "title": "Papyrus fragment",
+  "context": "According to the style of writing, this letter was written during the Middle Kingdom. However, not enough of it remains to determine anything about its content. Both sides were written on a papyrus that was used before.",
+  "sources": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/545457"
+    }
+  ],
+  "review_status": "Existing project text; independent human verification not recorded",
+  "usage": "Sample data input for RAG; no answer generation, embeddings or retrieval service are included."
+}

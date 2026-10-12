@@ -1,0 +1,26 @@
+{
+  "image": "In manifests/*.json, relative to the containing manifest. In the original source records at the package root, relative to the package root. All paths resolve inside this package.",
+  "artifact_id": "Active catalog identity, or null for unknown control.",
+  "sha256": "Normalized file checksum, bound to review decision.",
+  "original_sha256": "Downloaded source byte checksum, when available.",
+  "pixel_sha256": "SHA256 of decoded RGB size and pixels.",
+  "capture_group": "Conservative shared capture/source group; cannot cross splits.",
+  "review_status": [
+    "approved",
+    "quarantine",
+    "rejected",
+    "existing_catalog_reference"
+  ],
+  "reviewer": "Codex-assisted review, not human approval.",
+  "split": [
+    "train",
+    "reference",
+    "validation",
+    "test"
+  ],
+  "source_split": "For train rows, preserves the original reference assignment from the shared source dataset.",
+  "assignment_note": "Explains the Week 1 training assignment; it does not imply that model training has taken place.",
+  "evaluation_use": "All validation/test rows are previously exposed pilot data.",
+  "dhash": "64-bit grayscale difference hash; heuristic similarity only.",
+  "license": "Per-source license; retain attribution and source terms."
+}

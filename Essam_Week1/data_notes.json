@@ -1,0 +1,389 @@
+{
+  "record_count": 67,
+  "unique_ids": 67,
+  "usable_english_descriptions": 57,
+  "ids_without_english_description": [
+    "EG_PA_011",
+    "EG_PA_013",
+    "EG_PA_017",
+    "EG_PA_021",
+    "EG_PA_023",
+    "EG_SL_003",
+    "EG_SL_010",
+    "EG_SL_011",
+    "EG_SL_020",
+    "EG_SL_024"
+  ],
+  "empty_field_counts": [
+    {
+      "field": "id",
+      "count": 0
+    },
+    {
+      "field": "name",
+      "count": 0
+    },
+    {
+      "field": "civilization",
+      "count": 0
+    },
+    {
+      "field": "category",
+      "count": 0
+    },
+    {
+      "field": "period",
+      "count": 0
+    },
+    {
+      "field": "dynasty",
+      "count": 17
+    },
+    {
+      "field": "date",
+      "count": 8
+    },
+    {
+      "field": "material",
+      "count": 0
+    },
+    {
+      "field": "description",
+      "count": 10
+    },
+    {
+      "field": "objectNumber",
+      "count": 7
+    },
+    {
+      "field": "source",
+      "count": 0
+    },
+    {
+      "field": "sourceUrl",
+      "count": 0
+    },
+    {
+      "field": "hall",
+      "count": 0
+    }
+  ],
+  "records_with_missing_fields": [
+    {
+      "artifact_id": "EG_PA_011",
+      "missing_fields": [
+        "dynasty",
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_PA_013",
+      "missing_fields": [
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_PA_017",
+      "missing_fields": [
+        "dynasty",
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_PA_021",
+      "missing_fields": [
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_PA_023",
+      "missing_fields": [
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_PA_029",
+      "missing_fields": [
+        "dynasty"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_PA_030",
+      "missing_fields": [
+        "dynasty"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_SL_003",
+      "missing_fields": [
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_SL_010",
+      "missing_fields": [
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_SL_011",
+      "missing_fields": [
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_SL_020",
+      "missing_fields": [
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_SL_021",
+      "missing_fields": [
+        "dynasty"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "EG_SL_024",
+      "missing_fields": [
+        "description"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BONN_GV175",
+      "missing_fields": [
+        "dynasty"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "NEFERTITI_REPLICA",
+      "missing_fields": [
+        "dynasty"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_AMUN_RAM",
+      "missing_fields": [
+        "dynasty",
+        "date",
+        "objectNumber"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_AMENHOTEP_HEAD",
+      "missing_fields": [
+        "dynasty",
+        "date",
+        "objectNumber"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_MENTUEMHAT",
+      "missing_fields": [
+        "dynasty",
+        "date"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_PRUDHOE_LION",
+      "missing_fields": [
+        "dynasty",
+        "date",
+        "objectNumber"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_RAMESSES_IV",
+      "missing_fields": [
+        "dynasty",
+        "date",
+        "objectNumber"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_SEKHMET_EA60",
+      "missing_fields": [
+        "dynasty",
+        "date"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_ROY",
+      "missing_fields": [
+        "objectNumber"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_TAWERET",
+      "missing_fields": [
+        "dynasty",
+        "date",
+        "objectNumber"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BM_ISIS_HORUS",
+      "missing_fields": [
+        "dynasty",
+        "date",
+        "objectNumber"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BERLIN_TAIRKAP_OUTER",
+      "missing_fields": [
+        "dynasty"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    },
+    {
+      "artifact_id": "BERLIN_TAIRKAP_INNER",
+      "missing_fields": [
+        "dynasty"
+      ],
+      "action": "Check the cited source; leave blank until evidence is available."
+    }
+  ],
+  "review_notes": [
+    "This is a text-focused export of the current active catalogue, not evidence that every historical description has been independently approved.",
+    "All 67 records retain source URLs. Ten records contain no English description after underscore placeholders are normalized; retrieval must return insufficient evidence for those records until descriptions are sourced.",
+    "Source URLs have HTTP(S) syntax; this does not establish source correctness or availability.",
+    "The scan-source links for some exhibits identify geometry or replicas. Those links alone do not verify every historical statement in a description.",
+    "NEFERTITI_REPLICA describes a modern replica. It must not be relabelled as the ancient original.",
+    "The date and dynasty fields retain blank values. Some fields, including the replica date, contain descriptive text rather than normalized dates.",
+    "Original category/civilization wording is retained. No new historical facts or translations were added.",
+    "English text only. Arabic descriptions are outside this submission at the user's request.",
+    "Image-collection review decisions and recognition validation/test results belong to the CV dataset handoff and are not included here."
+  ],
+  "corrections_applied_in_this_export": [
+    {
+      "artifact_id": "EG_PA_011",
+      "field": "dynasty",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_PA_011",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_PA_013",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_PA_017",
+      "field": "dynasty",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_PA_017",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_PA_021",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_PA_023",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_PA_029",
+      "field": "dynasty",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_PA_030",
+      "field": "dynasty",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_SL_003",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_SL_010",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_SL_011",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_SL_020",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_SL_021",
+      "field": "dynasty",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    },
+    {
+      "artifact_id": "EG_SL_024",
+      "field": "description",
+      "original_value": "_",
+      "exported_value": "",
+      "reason": "Normalize an underscore placeholder to an explicitly missing value; no factual content was supplied."
+    }
+  ]
+}

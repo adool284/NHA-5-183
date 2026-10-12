@@ -1,0 +1,344 @@
+{
+  "extracted_on": "2026-10-06",
+  "source_file": "MuseAI-Frontend/person1-cv-data/catalog.json",
+  "source_file_sha256": "eb1396925baa18485a3cc52ad5a433c76ba832b674999a4fc8d32d5ba03bf081",
+  "processing": "Select the 67 existing active records and text fields; preserve IDs, factual wording and source links. Convert underscore placeholders to empty strings and record each conversion in data_notes.json. Exclude image/model assets and references.",
+  "source_verification": "Existing source links were retained. Pages were not re-fetched and historical claims were not independently verified during packaging.",
+  "records": [
+    {
+      "artifact_id": "EG_PA_001",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/550134"
+    },
+    {
+      "artifact_id": "EG_PA_002",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545452"
+    },
+    {
+      "artifact_id": "EG_PA_003",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545457"
+    },
+    {
+      "artifact_id": "EG_PA_004",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545455"
+    },
+    {
+      "artifact_id": "EG_PA_005",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545445"
+    },
+    {
+      "artifact_id": "EG_PA_006",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545449"
+    },
+    {
+      "artifact_id": "EG_PA_007",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/552619"
+    },
+    {
+      "artifact_id": "EG_PA_008",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544847"
+    },
+    {
+      "artifact_id": "EG_PA_009",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545450"
+    },
+    {
+      "artifact_id": "EG_PA_010",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/553675"
+    },
+    {
+      "artifact_id": "EG_PA_011",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/557907"
+    },
+    {
+      "artifact_id": "EG_PA_012",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545446"
+    },
+    {
+      "artifact_id": "EG_PA_013",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/553679"
+    },
+    {
+      "artifact_id": "EG_PA_015",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/551043"
+    },
+    {
+      "artifact_id": "EG_PA_016",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/565440"
+    },
+    {
+      "artifact_id": "EG_PA_017",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/572083"
+    },
+    {
+      "artifact_id": "EG_PA_018",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545448"
+    },
+    {
+      "artifact_id": "EG_PA_020",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545453"
+    },
+    {
+      "artifact_id": "EG_PA_021",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/546731"
+    },
+    {
+      "artifact_id": "EG_PA_022",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545454"
+    },
+    {
+      "artifact_id": "EG_PA_023",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/546510"
+    },
+    {
+      "artifact_id": "EG_PA_024",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/554676"
+    },
+    {
+      "artifact_id": "EG_PA_025",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545451"
+    },
+    {
+      "artifact_id": "EG_PA_026",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545447"
+    },
+    {
+      "artifact_id": "EG_PA_027",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/590941"
+    },
+    {
+      "artifact_id": "EG_PA_028",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545191"
+    },
+    {
+      "artifact_id": "EG_PA_029",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/557653"
+    },
+    {
+      "artifact_id": "EG_PA_030",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/551786"
+    },
+    {
+      "artifact_id": "EG_SL_001",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544348"
+    },
+    {
+      "artifact_id": "EG_SL_002",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/556609"
+    },
+    {
+      "artifact_id": "EG_SL_003",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/569270"
+    },
+    {
+      "artifact_id": "EG_SL_005",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544320"
+    },
+    {
+      "artifact_id": "EG_SL_006",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/556552"
+    },
+    {
+      "artifact_id": "EG_SL_007",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/554520"
+    },
+    {
+      "artifact_id": "EG_SL_008",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/556622"
+    },
+    {
+      "artifact_id": "EG_SL_009",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/554792"
+    },
+    {
+      "artifact_id": "EG_SL_010",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544360"
+    },
+    {
+      "artifact_id": "EG_SL_011",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545503"
+    },
+    {
+      "artifact_id": "EG_SL_012",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/548284"
+    },
+    {
+      "artifact_id": "EG_SL_013",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/548518"
+    },
+    {
+      "artifact_id": "EG_SL_014",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/557155"
+    },
+    {
+      "artifact_id": "EG_SL_016",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544794"
+    },
+    {
+      "artifact_id": "EG_SL_018",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544881"
+    },
+    {
+      "artifact_id": "EG_SL_019",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/554786"
+    },
+    {
+      "artifact_id": "EG_SL_020",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/547555"
+    },
+    {
+      "artifact_id": "EG_SL_021",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/551304"
+    },
+    {
+      "artifact_id": "EG_SL_022",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/555870"
+    },
+    {
+      "artifact_id": "EG_SL_023",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/549236"
+    },
+    {
+      "artifact_id": "EG_SL_024",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/545595"
+    },
+    {
+      "artifact_id": "EG_SL_025",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544364"
+    },
+    {
+      "artifact_id": "EG_SL_026",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/544346"
+    },
+    {
+      "artifact_id": "EG_SL_027",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/554785"
+    },
+    {
+      "artifact_id": "EG_SL_028",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/546037"
+    },
+    {
+      "artifact_id": "EG_SL_030",
+      "source_name": "The Met",
+      "source_url": "https://www.metmuseum.org/art/collection/search/552234"
+    },
+    {
+      "artifact_id": "BONN_GV175",
+      "source_name": "Egyptian Museum Bonn · Grevenbroich loan",
+      "source_url": "https://doi.org/10.60507/FK2/E64TPM"
+    },
+    {
+      "artifact_id": "NEFERTITI_REPLICA",
+      "source_name": "Fraunhofer IGD · CultLab3D",
+      "source_url": "https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/Nefertiti"
+    },
+    {
+      "artifact_id": "BM_AMUN_RAM",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/amunRam"
+    },
+    {
+      "artifact_id": "BM_AMENHOTEP_HEAD",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/colossalAmenhotepIII"
+    },
+    {
+      "artifact_id": "BM_MENTUEMHAT",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/mentuemhatStatue"
+    },
+    {
+      "artifact_id": "BM_PRUDHOE_LION",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/prudhoeLionLeft"
+    },
+    {
+      "artifact_id": "BM_RAMESSES_IV",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/ramesesIV"
+    },
+    {
+      "artifact_id": "BM_SEKHMET_EA60",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/sekhmetEA60"
+    },
+    {
+      "artifact_id": "BM_ROY",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/statueOfRy"
+    },
+    {
+      "artifact_id": "BM_TAWERET",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/tawaretPink"
+    },
+    {
+      "artifact_id": "BM_ISIS_HORUS",
+      "source_name": "British Museum",
+      "source_url": "https://github.com/BritishMuseumDH/isisHorusAL"
+    },
+    {
+      "artifact_id": "BERLIN_TAIRKAP_OUTER",
+      "source_name": "Egyptian Museum and Papyrus Collection, Berlin · University of Bonn",
+      "source_url": "https://doi.org/10.60507/FK2/5Q848X"
+    },
+    {
+      "artifact_id": "BERLIN_TAIRKAP_INNER",
+      "source_name": "Egyptian Museum and Papyrus Collection, Berlin · University of Bonn",
+      "source_url": "https://doi.org/10.60507/FK2/I9MDEV"
+    }
+  ]
+}

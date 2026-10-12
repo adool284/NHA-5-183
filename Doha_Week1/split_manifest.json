@@ -1,0 +1,38 @@
+{
+  "status": "reproducible_pilot_split_with_limited_coverage",
+  "train_validation_test_manifests_available": true,
+  "final_evaluation_ready": false,
+  "train": {
+    "manifest": "manifests/train.json",
+    "images": 365,
+    "known_identities": 62,
+    "status": "Photographic reference rows assigned to training for this handoff; no training run is claimed."
+  },
+  "validation": {
+    "manifest": "manifests/validation.json",
+    "images": 6,
+    "status": "Previously exposed pilot data."
+  },
+  "test": {
+    "manifest": "manifests/test.json",
+    "images": 9,
+    "status": "Previously exposed pilot data, not a fresh final test."
+  },
+  "reference": {
+    "manifest": "manifests/combined_reference.json",
+    "images": 370,
+    "status": "Original retrieval reference pool preserved for provenance."
+  },
+  "reference_only": {
+    "manifest": "manifests/reference_only.json",
+    "images": 5,
+    "status": "Scan renders excluded from the photographic training split."
+  },
+  "reproduce": [
+    "python prepare.py",
+    "python audit_report.py"
+  ],
+  "assignment_source": "Existing hash-bound review/decisions.json for reference and pilot data; audit_report.py deterministically assigns approved non-render reference rows to train.",
+  "leakage_checks": "SHA-256, original-file hash, decoded-pixel hash and conservative capture group must not cross existing splits.",
+  "independence_limit": "No observed hash/group overlap does not establish independent capture or a fresh final evaluation set."
+}

@@ -1,0 +1,22 @@
+{
+  "active_artifacts": 67,
+  "source_gallery_images": 364,
+  "reference_images": 370,
+  "reference_artifacts": 67,
+  "validation_images": 6,
+  "test_images": 9,
+  "quarantined_images": 3,
+  "rejected_images": 2,
+  "exact_duplicates_removed": 0,
+  "near_duplicate_candidates": 0,
+  "source_artifacts_without_new_images": [
+    "BERLIN_TAIRKAP_INNER",
+    "BERLIN_TAIRKAP_OUTER",
+    "BM_TAWERET",
+    "BONN_GV175",
+    "EG_PA_007",
+    "NEFERTITI_REPLICA"
+  ],
+  "final_test_ready": false,
+  "evaluation_status": "Previously exposed pilot data; fresh independent captures needed for final acceptance."
+}

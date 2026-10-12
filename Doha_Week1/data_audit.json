@@ -1,0 +1,62 @@
+{
+  "source": "Existing shared person1-cv-data v0.2; repackaged for Week 1 dataset review",
+  "summary": {
+    "active_artifacts": 67,
+    "source_gallery_images": 364,
+    "reference_images": 370,
+    "reference_artifacts": 67,
+    "validation_images": 6,
+    "test_images": 9,
+    "quarantined_images": 3,
+    "rejected_images": 2,
+    "exact_duplicates_removed": 0,
+    "near_duplicate_candidates": 0,
+    "source_artifacts_without_new_images": [
+      "BERLIN_TAIRKAP_INNER",
+      "BERLIN_TAIRKAP_OUTER",
+      "BM_TAWERET",
+      "BONN_GV175",
+      "EG_PA_007",
+      "NEFERTITI_REPLICA"
+    ],
+    "final_test_ready": false,
+    "evaluation_status": "Previously exposed pilot data; fresh independent captures needed for final acceptance."
+  },
+  "checked_input_image_files": 390,
+  "missing_corrupt_or_checksum_failures": 0,
+  "validation_note": "Report is written only after every input passes path, file hash and image decode checks.",
+  "recorded_download_failures": [],
+  "cross_split_hash_and_capture_overlap": "passed",
+  "train_validation_test_hash_and_capture_overlap": "passed",
+  "photographic_training_images": 365,
+  "photographic_training_identities": 62,
+  "near_duplicate_candidates": [],
+  "exact_duplicates_removed": [],
+  "split_counts": {
+    "reference": {
+      "images": 370,
+      "known_identities": 67,
+      "unknown_control_images": 0,
+      "capture_groups": 67
+    },
+    "validation": {
+      "images": 6,
+      "known_identities": 1,
+      "unknown_control_images": 4,
+      "capture_groups": 5
+    },
+    "test": {
+      "images": 9,
+      "known_identities": 2,
+      "unknown_control_images": 4,
+      "capture_groups": 6
+    }
+  },
+  "review_basis": "Source metadata and the existing assisted-review ledger; no new human sign-off.",
+  "limitations": [
+    "Similarity checks cannot establish independence of camera captures.",
+    "Five identities have render-only reference images.",
+    "Validation and test images are previously exposed pilot data.",
+    "A fresh final evaluation set remains outstanding."
+  ]
+}

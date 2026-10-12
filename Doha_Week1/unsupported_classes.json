@@ -1,0 +1,36 @@
+{
+  "scope": "Photographic training coverage for this Week 1 handoff.",
+  "classes": [
+    {
+      "artifact_id": "BERLIN_TAIRKAP_INNER",
+      "reason": "Only a scan render is available; no photographic training image.",
+      "included_in_train": false,
+      "isolated_image_manifest": "manifests/reference_only.json"
+    },
+    {
+      "artifact_id": "BERLIN_TAIRKAP_OUTER",
+      "reason": "Only a scan render is available; no photographic training image.",
+      "included_in_train": false,
+      "isolated_image_manifest": "manifests/reference_only.json"
+    },
+    {
+      "artifact_id": "BM_TAWERET",
+      "reason": "Only a scan render is available; no photographic training image.",
+      "included_in_train": false,
+      "isolated_image_manifest": "manifests/reference_only.json"
+    },
+    {
+      "artifact_id": "BONN_GV175",
+      "reason": "Only a scan render is available; no photographic training image.",
+      "included_in_train": false,
+      "isolated_image_manifest": "manifests/reference_only.json"
+    },
+    {
+      "artifact_id": "NEFERTITI_REPLICA",
+      "reason": "Only a scan render is available; no photographic training image.",
+      "included_in_train": false,
+      "isolated_image_manifest": "manifests/reference_only.json"
+    }
+  ],
+  "unknown_controls": "Rows with artifact_id=null in validation/test are deliberate unknown controls, not supported artifact classes."
+}

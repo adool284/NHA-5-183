@@ -1,0 +1,68 @@
+artifact_id,name,category,reference_images,validation_known_images,pilot_test_known_images,photographic_training_images,reference_status
+BERLIN_TAIRKAP_INNER,Ta-ir-kap — Inner Coffin,Sarcophagi/Coffins,1,0,0,0,render_only
+BERLIN_TAIRKAP_OUTER,Ta-ir-kap — Outer Coffin,Sarcophagi/Coffins,1,0,0,0,render_only
+BM_AMENHOTEP_HEAD,Colossal Head of Amenhotep III,Statues,24,0,0,24,source_photo_available
+BM_AMUN_RAM,Ram of Amun,Statues,24,0,0,24,source_photo_available
+BM_ISIS_HORUS,Isis with Horus,Statues,24,0,0,24,source_photo_available
+BM_MENTUEMHAT,Mentuemhat with a Stela,Statues,24,2,1,24,source_photo_available
+BM_PRUDHOE_LION,Prudhoe Lion — Left Model,Statues,22,0,0,22,source_photo_available
+BM_RAMESSES_IV,Kneeling Statue of Ramesses IV,Statues,23,0,4,23,source_photo_available
+BM_ROY,"Roy, High Priest of Amun",Statues,24,0,0,24,source_photo_available
+BM_SEKHMET_EA60,Seated Sekhmet,Statues,24,0,0,24,source_photo_available
+BM_TAWERET,Taweret,Statues,1,0,0,0,render_only
+BONN_GV175,Painted Wooden Coffin Lid,Sarcophagi/Coffins,1,0,0,0,render_only
+EG_PA_001,Papyrus sheet,Papyrus,2,0,0,2,source_photo_available
+EG_PA_002,Heqanakht Papyrus Fragments,Papyrus,3,0,0,3,source_photo_available
+EG_PA_003,Papyrus fragment,Papyrus,2,0,0,2,source_photo_available
+EG_PA_004,Accounts of workforce salaries,Papyrus,2,0,0,2,source_photo_available
+EG_PA_005,Heqanakht Letter I,Papyrus,4,0,0,4,source_photo_available
+EG_PA_006,Heqanakht Letter V,Papyrus,2,0,0,2,source_photo_available
+EG_PA_007,Papyrus sheet,Papyrus,1,0,0,1,source_photo_available
+EG_PA_008,Letter written in hieratic script on papyrus,Papyrus,1,0,0,1,source_photo_available
+EG_PA_009,Heqanakht Account VI,Papyrus,2,0,0,2,source_photo_available
+EG_PA_010,Fragments of Papyrus,Papyrus,1,0,0,1,source_photo_available
+EG_PA_011,Papyrus fragment,Papyrus,1,0,0,1,source_photo_available
+EG_PA_012,Heqanahkt Letter II,Papyrus,3,0,0,3,source_photo_available
+EG_PA_013,Papyrus charm,Papyrus,2,0,0,2,source_photo_available
+EG_PA_015,"Heqanakht's account, written over an effaced letter regarding two female servants",Papyrus,2,0,0,2,source_photo_available
+EG_PA_016,Meketre papyrus,Papyrus,2,0,0,2,source_photo_available
+EG_PA_017,Papyrus,Papyrus,2,0,0,2,source_photo_available
+EG_PA_018,"Papyrus of Sitnebsekhtu, Heqanakht Letter IV",Papyrus,3,0,0,3,source_photo_available
+EG_PA_020,Meketre papyrus,Papyrus,1,0,0,1,source_photo_available
+EG_PA_021,Papyrus fragment,Papyrus,1,0,0,1,source_photo_available
+EG_PA_022,Papyrus inscribed with accounts of beer and bulls,Papyrus,2,0,0,2,source_photo_available
+EG_PA_023,Two papyrus fragments,Papyrus,4,0,0,4,source_photo_available
+EG_PA_024,Sheet from the Papyrus of Amenhotep,Papyrus,2,0,0,2,source_photo_available
+EG_PA_025,Heqanakht Account VII,Papyrus,2,0,0,2,source_photo_available
+EG_PA_026,Heqanakht Letter (III) to Merisu,Papyrus,2,0,0,2,source_photo_available
+EG_PA_027,Book of the Dead of Khamhor,Papyrus,16,0,0,16,source_photo_available
+EG_PA_028,Funerary Papyrus of Nauny,Papyrus,6,0,0,6,source_photo_available
+EG_PA_029,"Religious text of Tanaweruow, daughter of Hartophnakhthes and Tatita",Papyrus,2,0,0,2,source_photo_available
+EG_PA_030,"Book of the Dead of the Priest of Horus, Imhotep (Imuthes)",Papyrus,17,0,0,17,source_photo_available
+EG_SL_001,Stela of Rehuerdjersen,Stelae,2,0,0,2,source_photo_available
+EG_SL_002,Stela of Hetepi,Stelae,1,0,0,1,source_photo_available
+EG_SL_003,Stela,Stelae,1,0,0,1,source_photo_available
+EG_SL_005,Stela of the Steward Mentuwoser,Stelae,4,0,0,4,source_photo_available
+EG_SL_006,Stela of Merneptah,Stelae,1,0,0,1,source_photo_available
+EG_SL_007,Stela of Djehuty,Stelae,1,0,0,1,source_photo_available
+EG_SL_008,Stela of Two Brothers,Stelae,1,0,0,1,source_photo_available
+EG_SL_009,Stela of Itubaal and Masutu,Stelae,2,0,0,2,source_photo_available
+EG_SL_010,Stela of Khonsu,Stelae,2,0,0,2,source_photo_available
+EG_SL_011,Stela of Reniseneb,Stelae,4,0,0,4,source_photo_available
+EG_SL_012,"Funerary Stela of the God's-Father, Nesikhonsu",Stelae,1,0,0,1,source_photo_available
+EG_SL_013,Stela of Aafenmut,Stelae,2,0,0,2,source_photo_available
+EG_SL_014,Stela of Inamennayefnebu,Stelae,1,0,0,1,source_photo_available
+EG_SL_016,Stela of Senu,Stelae,4,0,0,4,source_photo_available
+EG_SL_018,Donation Stela of Shebitqo,Stelae,1,0,0,1,source_photo_available
+EG_SL_019,Stela of Nebamun,Stelae,1,0,0,1,source_photo_available
+EG_SL_020,Stela of the Overseer of the Treasurers Isi,Stelae,1,0,0,1,source_photo_available
+EG_SL_021,"Funerary stela of Thutirtis, born of Kerbet (?)",Stelae,2,0,0,2,source_photo_available
+EG_SL_022,Stela of Seankhptah,Stelae,2,0,0,2,source_photo_available
+EG_SL_023,Stela of Ptahmose,Stelae,1,0,0,1,source_photo_available
+EG_SL_024,Stela of Aamtju,Stelae,1,0,0,1,source_photo_available
+EG_SL_025,Stela of Horemkhauef,Stelae,1,0,0,1,source_photo_available
+EG_SL_026,Stela of Dedu,Stelae,2,0,0,2,source_photo_available
+EG_SL_027,Stela,Stelae,2,0,0,2,source_photo_available
+EG_SL_028,Magical Stela with Horus the Child,Stelae,44,0,0,44,source_photo_available
+EG_SL_030,Tomb Stela of Hetepsi,Stelae,1,0,0,1,source_photo_available
+NEFERTITI_REPLICA,Nefertiti — Replica Bust,Statues,1,0,0,0,render_only

@@ -1,0 +1,80 @@
+[
+  {
+    "artifact_id": "BONN_GV175",
+    "image_id": "catalog-BONN_GV175",
+    "image": "images/catalog/BONN_GV175.png",
+    "sha256": "25a36f48dd0981280775c3bcb0bda626cf942037b81271aa9d9265d09563132e",
+    "source_url": "https://doi.org/10.60507/FK2/E64TPM",
+    "capture_group": "catalog-render:BONN_GV175",
+    "kind": "scan_render",
+    "license": "CC BY-NC 4.0",
+    "creator": "Philippe Pathé · Adriana Günzel · Matthias Lang / University of Bonn",
+    "review_status": "existing_catalog_reference",
+    "split": "reference"
+  },
+  {
+    "artifact_id": "NEFERTITI_REPLICA",
+    "image_id": "catalog-NEFERTITI_REPLICA",
+    "image": "images/catalog/NEFERTITI_REPLICA.png",
+    "sha256": "9e5cf40635ee797b5f0f7a40bc5d5d75b9c6b001dd0b95a19fbc502ea2095c90",
+    "source_url": "https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/Nefertiti",
+    "capture_group": "catalog-render:NEFERTITI_REPLICA",
+    "kind": "scan_render",
+    "license": "CC BY-NC",
+    "creator": "Fraunhofer IGD · CultLab3D",
+    "review_status": "existing_catalog_reference",
+    "split": "reference"
+  },
+  {
+    "artifact_id": "BM_TAWERET",
+    "image_id": "catalog-BM_TAWERET",
+    "image": "images/catalog/BM_TAWERET.png",
+    "sha256": "684ddfb24b66c9e522a0f3c1569298b30deee8ccb3ca99de34b4c7f730f7d3df",
+    "source_url": "https://github.com/BritishMuseumDH/tawaretPink",
+    "capture_group": "catalog-render:BM_TAWERET",
+    "kind": "scan_render",
+    "license": "CC BY-NC-SA 4.0",
+    "creator": "Daniel Pett / © Trustees of the British Museum",
+    "review_status": "existing_catalog_reference",
+    "split": "reference"
+  },
+  {
+    "artifact_id": "BERLIN_TAIRKAP_OUTER",
+    "image_id": "catalog-BERLIN_TAIRKAP_OUTER",
+    "image": "images/catalog/BERLIN_TAIRKAP_OUTER.png",
+    "sha256": "765246966229947c9e9161c39b6c2ab661acd41b4cfa57b81cdceff998dd2288",
+    "source_url": "https://doi.org/10.60507/FK2/5Q848X",
+    "capture_group": "catalog-render:BERLIN_TAIRKAP_OUTER",
+    "kind": "scan_render",
+    "license": "CC BY-SA 4.0",
+    "creator": "Matthias Lang · Philippe Pathé / University of Bonn, BCDH · Staatliche Museen zu Berlin",
+    "review_status": "existing_catalog_reference",
+    "split": "reference"
+  },
+  {
+    "artifact_id": "BERLIN_TAIRKAP_INNER",
+    "image_id": "catalog-BERLIN_TAIRKAP_INNER",
+    "image": "images/catalog/BERLIN_TAIRKAP_INNER.png",
+    "sha256": "2272bb36a7580c606514fb51ea73374da59f5fd8a84b5ff56262abfd201c5bb4",
+    "source_url": "https://doi.org/10.60507/FK2/I9MDEV",
+    "capture_group": "catalog-render:BERLIN_TAIRKAP_INNER",
+    "kind": "scan_render",
+    "license": "CC BY-SA 4.0",
+    "creator": "Matthias Lang · Philippe Pathé / University of Bonn, BCDH · Staatliche Museen zu Berlin",
+    "review_status": "existing_catalog_reference",
+    "split": "reference"
+  },
+  {
+    "artifact_id": "EG_PA_007",
+    "image_id": "catalog-EG_PA_007",
+    "image": "images/catalog/EG_PA_007.jpg",
+    "sha256": "8aa044965c78bd7a0c1fe6de431abdb4efca163fab3107842614c8609e8cb10a",
+    "source_url": "https://www.metmuseum.org/art/collection/search/552619",
+    "capture_group": "met-source:552619",
+    "kind": "source_photo",
+    "license": "CC0 / Public Domain",
+    "creator": "The Metropolitan Museum of Art",
+    "review_status": "existing_catalog_reference",
+    "split": "reference"
+  }
+]
