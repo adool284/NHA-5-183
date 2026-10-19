@@ -1,0 +1,40 @@
+{
+  "module_version": "2.0.0",
+  "llm_backend": "qwen",
+  "part_a": {
+    "artifacts": 1418,
+    "stats": {},
+    "failures_by_check": {},
+    "skip_reasons": {}
+  },
+  "part_b": {
+    "sessions": 100,
+    "questions_by_source": {
+      "metadata": 935,
+      "llm_description": 58
+    },
+    "problems": {}
+  },
+  "part_c": {
+    "attempted": 30,
+    "accepted": 6,
+    "rejected": 24,
+    "acceptance_rate_pct": 20.0,
+    "rejection_reasons": {
+      "answer_not_in_evidence": 19,
+      "no_code_distractors": 15,
+      "question_contains_option": 10,
+      "qa_parse_failed": 8,
+      "question_ignored_opening": 7,
+      "question_detail_not_in_evidence": 1,
+      "question_unrelated_to_evidence": 1,
+      "verification_failed": 1,
+      "numeric_distractor_for_non_numeric_answer": 1,
+      "question_refers_to_text": 1,
+      "bad_question_shape": 1,
+      "question_not_about_the_sentence": 1,
+      "no_certain_sentences": 1
+    },
+    "seconds": 562.3
+  }
+}

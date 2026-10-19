@@ -1,0 +1,25 @@
+artifact_id,title,reasons
+MET_26.7.1193,Statuette of the Goddess Taweret,question_ignored_opening;answer_not_in_evidence;question_contains_option
+MET_35.1.26,Statue fragment of a lion paw,question_detail_not_in_evidence;question_unrelated_to_evidence;question_contains_option;no_code_distractors
+MET_10.130.2444,Anubis (?) supporting a large djed pillar,verification_failed;answer_not_in_evidence
+MET_08.201.1a,Tomb chapel of Raemkai: North wall of the entrance corridor,numeric_distractor_for_non_numeric_answer;question_contains_option;no_code_distractors;answer_not_in_evidence
+"MET_17.2.7b.1, .2",Inner coffin of Amenemopet,no_code_distractors;answer_not_in_evidence;no_code_distractors
+MET_12.182.2,Stela of Ameny and his Wife Inet-Hapy,question_refers_to_text;no_code_distractors;no_code_distractors
+MET_14.3.69–.70-related,Shabti and Coffin of the King's Son Wahneferhotep,question_contains_option;no_code_distractors;no_code_distractors
+CMA_1914.679,Statuette of Amen-Ra,question_ignored_opening;qa_parse_failed;qa_parse_failed
+MET_04.2.578,"Statuette, Osiris",answer_not_in_evidence;question_contains_option;no_code_distractors
+MET_26.7.847,Onuris,no_code_distractors;answer_not_in_evidence;answer_not_in_evidence
+MET_04.2.451,Amun,bad_question_shape;question_contains_option;question_ignored_opening;qa_parse_failed
+MET_10.130.1361,Onuris,no_code_distractors;answer_not_in_evidence;no_code_distractors
+MET_2011.355,Headless Statuette of the God Min,question_not_about_the_sentence;qa_parse_failed;answer_not_in_evidence
+"MET_12.181.209a, b",Linen Chest Reused as a Child's Coffin,answer_not_in_evidence;answer_not_in_evidence
+MET_26.7.1415,Priest in a leopard skin cloak with an inscription and Osiris on his skirt,qa_parse_failed
+MET_2021.41.18,Upper half of a woman from a pair or group statue,answer_not_in_evidence;answer_not_in_evidence;qa_parse_failed
+MET_35.9.19a–e,Funerary Papyrus of the Steward Sethnakht,question_contains_option;question_contains_option;answer_not_in_evidence
+"MET_14.7.1a, b",Sarcophagus of Wereshnefer,question_contains_option;question_contains_option;question_ignored_opening
+MET_31.114.1,Head from a statuette,qa_parse_failed;no_code_distractors
+MET_90.6.93a–c,Shabti and Coffin,qa_parse_failed;answer_not_in_evidence
+MET_2021.41.170,Statuette of a Striding Man in a Kilt,no_certain_sentences
+"MET_90.6.120a, b","Anthropoid ""Stola"" Coffin",question_ignored_opening;no_code_distractors;answer_not_in_evidence
+"MET_26.3.11a, b",Painted Wooden Coffin of Nesiamun,question_ignored_opening;answer_not_in_evidence;no_code_distractors
+MET_04.2.446,Neith,question_ignored_opening;answer_not_in_evidence;answer_not_in_evidence
