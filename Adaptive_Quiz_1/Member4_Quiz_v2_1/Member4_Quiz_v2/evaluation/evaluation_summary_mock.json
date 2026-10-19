@@ -1,0 +1,49 @@
+{
+  "module_version": "2.0.0",
+  "llm_backend": "mock",
+  "part_a": {
+    "artifacts": 1418,
+    "stats": {
+      "questions_audited": 20130,
+      "seconds": 118.4
+    },
+    "failures_by_check": {},
+    "skip_reasons": {
+      "Class:answer_in_title": 1146,
+      "Dynasty:ambiguous_value": 184,
+      "Dynasty:missing": 372,
+      "Dynasty:uncertain_value": 32,
+      "Material:ambiguous_value": 65,
+      "Material:answer_in_title": 93,
+      "Material:uncertain_value": 72,
+      "Period:ambiguous_value": 250,
+      "Period:answer_in_title": 4,
+      "Period:missing": 67,
+      "Period:uncertain_value": 32
+    },
+    "artifacts_with_ge1_askable_fact": 1385,
+    "artifacts_with_0_askable_fact": 33,
+    "askable_facts_total": 3355
+  },
+  "part_b": {
+    "sessions": 400,
+    "questions_by_source": {
+      "metadata": 3685,
+      "llm_description": 201
+    },
+    "problems": {}
+  },
+  "part_c": {
+    "attempted": 200,
+    "accepted": 144,
+    "rejected": 56,
+    "acceptance_rate_pct": 72.0,
+    "rejection_reasons": {
+      "bad_question_shape": 45,
+      "question_refers_to_text": 6,
+      "wrong_answer_appears_in_record": 4,
+      "no_certain_sentences": 4
+    },
+    "seconds": 0.3
+  }
+}
